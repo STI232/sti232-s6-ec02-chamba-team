@@ -1,2 +1,2 @@
-# sti232-s6-ec02-chamba-team
+# Ejercicio 02
 E
